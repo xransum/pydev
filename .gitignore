@@ -1,0 +1,5 @@
+# python stuff to ignore
+__pycache__/
+venv/
+env/
+Python-*/
